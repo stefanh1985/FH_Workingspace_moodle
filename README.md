@@ -95,4 +95,10 @@ https://moodle.org/
 
 
 
+# 📈 Alles ist im Wandel
+Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
+
+>stefan.hierholzer@paedagogika.com
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
 
