@@ -90,6 +90,47 @@ Anleitung: https://lms.paedagogika.com/course/view.php?id=77#sectionid-674-title
 
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+  <summary>Was ist Moodle?</summary>
+  Moodle ist eine Lernplattform, die dir hilft, Kurse online zu erstellen und zu verwalten. Sie wird häufig von Schulen, Universitäten und anderen Bildungseinrichtungen verwendet.
+</details>
+
+<details>
+  <summary>Wie melde ich mich bei Moodle an?</summary>
+  Um dich bei Moodle anzumelden, gehst du auf die Webseite deiner Bildungseinrichtung und suchst den Moodle-Link. Gib deinen Benutzernamen und dein Passwort ein, die du von der Einrichtung erhalten hast.
+</details>
+
+<details>
+  <summary>Ich habe mein Passwort vergessen. Was soll ich tun?</summary>
+  Auf der Login-Seite von Moodle gibt es einen Link "Passwort vergessen?". Klick darauf und folge den Anweisungen, um dein Passwort zurückzusetzen. Du benötigst dafür Zugriff auf deine E-Mail-Adresse.
+</details>
+
+<details>
+  <summary>Wie finde ich meine Kurse?</summary>
+  Nach dem Login siehst du auf der Startseite eine Liste deiner Kurse. Klick einfach auf den Kursnamen, um ihn zu öffnen.
+</details>
+
+<details>
+  <summary>Wie reiche ich eine Aufgabe ein?</summary>
+  Geh in den entsprechenden Kurs und klick auf die Aufgabe, die du einreichen möchtest. Dann klickst du auf "Abgabe hinzufügen" und lädst deine Datei hoch. Vergiss nicht, auf "Änderungen speichern" zu klicken.
+</details>
+
+<details>
+  <summary>Wie nehme ich an einem Forum teil?</summary>
+  Öffne den Kurs und klick auf das Forum, an dem du teilnehmen möchtest. Um einen Beitrag zu schreiben, klick auf "Neues Thema hinzufügen" oder antworte auf einen bestehenden Beitrag, indem du auf "Antworten" klickst.
+</details>
+
+<details>
+  <summary>Wie ändere ich meine Spracheinstellungen in Moodle?</summary>
+  Klick auf dein Profilbild oder deinen Namen oben rechts und geh zu "Einstellungen". Unter "Spracheinstellungen" kannst du die gewünschte Sprache auswählen.
+</details>
+
+
 # ❣️ Best Practice Beispiel(e)
 https://moodle.org/ 
 
